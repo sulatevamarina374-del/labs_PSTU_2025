@@ -37,18 +37,25 @@
 | № | n/n | статус по коду | статус по схеме |
 | --- | --- | --- | --- |
 | 0 | 3 | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/3 | |
-| 1 | №4 зел.м. | готово  | готово  |
-| 2 | №5 зел.м. | готово  | готово  |
-| 3 | рекрсии №3 зел.м. | готово | |
-| 4 | ханойская башня | готово  | |
-| 5 | 8 ферзей | готово  | |
-| 6 | простые сортировки | готово  | |
-| 7 | №10 зел.м. | готово  | готово |
-| 8 | №7.1 зел.м. | готово  | |
-| 9 | №7.2 зел.м. | готово  | |
-| 10 | №6 зел.м. | готово  | |
-| 11 | №9 зел.м. | готово  |
-| 12 | №8 зел.м. | готово | 
+| 1 | №4 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%204
+ | готово  |
+| 2 | №5 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%205 | готово  |
+| 3 | рекрсии №3 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/recursii%20(lab%203)
+ | |
+| 4 | ханойская башня | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/hanoi
+ | |
+| 5 | 8 ферзей | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/8_ferzei
+| |
+| 6 | простые сортировки | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/sort| |
+| 7 | №10 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%2010
+| готово |
+| 8 | №7.1 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%207.1| |
+| 9 | №7.2 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%207.2
+| |
+| 10 | №6 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%206| |
+| 11 | №9 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%209
+|
+| 12 | №8 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%208| 
 | 13 | №11.1 зел.м. | |
 | 14 | №11.2 | |
 | 15 | №11.3 | |
