@@ -53,8 +53,7 @@
 | 9 | №7.2 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%207.2
 | |
 | 10 | №6 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%206| |
-| 11 | №9 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%209
-|
+| 11 | №9 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%209|
 | 12 | №8 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%208| 
 | 13 | №11.1 зел.м. | |
 | 14 | №11.2 | |
