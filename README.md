@@ -40,7 +40,7 @@
 | 1 | №4 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%204| готово  |
 | 2 | №5 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%205 | готово  |
 | 3 | рекрсии №3 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/recursii%20(lab%203)| готово |
-| 4 | ханойская башня | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/hanoi| |
+| 4 | ханойская башня | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/hanoi| готово |
 | 5 | 8 ферзей | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/8_ferzei| |
 | 6 | простые сортировки | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/sort| |
 | 7 | №10 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%2010| готово |
