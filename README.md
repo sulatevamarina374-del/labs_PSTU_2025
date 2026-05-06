@@ -49,10 +49,7 @@
 | 10 | №6 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%206| |
 | 11 | №9 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%209|
 | 12 | №8 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%208| 
-| 13 | №11.1 зел.м. | |
-| 14 | №11.2 | |
-| 15 | №11.3 | |
-| 16 | №11.4 | |
+| 13-16 | №11.1-4 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%2011 |
 | 17 | поиски | |
 | 18 | поиски | |
 | 19 | сложные сортировки | |
