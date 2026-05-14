@@ -36,7 +36,6 @@
 # 2 семестр
 | № | n/n | статус по коду | статус по схеме |
 | --- | --- | --- | --- |
-| 0 | 3 | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/3 | |
 | 1 | №4 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%204| готово  |
 | 2 | №5 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/lab%205 | готово  |
 | 3 | рекрсии №3 зел.м. | https://github.com/sulatevamarina374-del/labs_PSTU_2025/tree/main/sem_2/recursii%20(lab%203)| готово |
